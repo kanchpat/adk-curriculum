@@ -1,0 +1,10 @@
+# Virtual Environment
+.venv/
+
+# Backup Workspaces / Previous steps
+adk-career-coach/
+
+# Stray artifact logs
+.adk/
+*.pyc
+__pycache__/

@@ -1,0 +1,22 @@
+CS 5010: AI Product Management
+Northeastern University - Spring 2026
+
+Course Overview:
+This course teaches the engineering, design, and product lifecycle requirements to take Large Language Models from concept into production grade applications.
+
+Grading Breakdown:
+- 💡 Class Participation: 15%
+- 🛠️ Labs & Assignments: 35%
+- 🚀 Final Project Pitch: 30%
+- 📝 Midterm Quiz: 20%
+
+Schedule:
+- Week 1: Introduction to Generative AI & Prompt Engineering
+- Week 2: Agent Tooling and Model Context Protocol (MCP)
+- Week 3: Retrieval-Augmented Generation (RAG) & Vector Ingestion
+- Week 4: Managing Continuous Continuous Media Streams (Live API)
+- Week 5: Multi-Agent Choreography & Routing Orchestration
+
+Instructor:
+Prof. Jane Doe (j.doe@northeastern.edu)
+Office Hours: Tuesdays 4:00 PM - 5:00 PM via Teams.
