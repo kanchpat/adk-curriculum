@@ -8,3 +8,6 @@ adk-career-coach/
 .adk/
 *.pyc
 __pycache__/
+
+# Rubric
+Rubric.MD
