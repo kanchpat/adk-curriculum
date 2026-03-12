@@ -21,7 +21,6 @@ researcher_agent = LlmAgent(
         - Job Title & Company
         - Core Requirements / Tech Stack
         - Relevance (Why you picked this based on their query)
-    3. Always conclude with: *"Would you like me to track any of these in your Google Sheet?"* (This sets up our next lesson).
     """,
     tools=[google_search]
 )
