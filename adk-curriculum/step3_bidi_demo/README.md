@@ -201,6 +201,14 @@ http://localhost:8000
 3. Receive audio responses with real-time transcription
 4. Click "Stop Audio" to end the audio session
 
+### Continuous Video Mode
+
+1. Click **📷 Camera** on the main dashboard index
+2. Inside the Modal, click **▶️ Stream Video**
+3. This initiates a Canvas interval loop at 5 FPS scaling and transmitting frames to Gemini
+4. Speak to the agent via Audio to trigger multimodal reasoning responses grounded to your video feed!
+5. Click **⏸️ Stop Stream** inside the modal to end the video update loop.
+
 ## WebSocket API
 
 ### Endpoint

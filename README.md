@@ -38,7 +38,7 @@ Reads directly from a local `.txt` document using normal Python Tooling layers c
     ```
 *   **Sample Prompt**: *"What is the grading breakdown structure of the course and when are professor office hours?"*
 
-### 🎙️ **Step 4: BiDi Streaming (Continuous Audio/Video Live API)**
+### 🎙️ **Step 3: BiDi Streaming (Continuous Audio/Video Live API)**
 Fully bidirectional multimodal live socket stream.
 *   **Command**:
     ```bash
