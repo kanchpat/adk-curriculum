@@ -1,4 +1,4 @@
-# Northeastern University - AI Product Management Course Staging
+# Northeastern University - AI Agent Building Course Staging
 ### 🚀 Generative AI App Development (ADK Curriculum)
 
 This workspace contains reference templates and custom implementation modules demonstrating **Google ADK** and absolute continuous stream processing setups.
@@ -8,8 +8,8 @@ This workspace contains reference templates and custom implementation modules de
 ## 📂 1. Workspace Layout
 - `adk-curriculum/` 🌟 
   - `step1_researcher` - Standard Search Execution
-  - `custom_rag` - Zero-index long-context file analyzing agent 
-  - `bidi-demo` - Continuous Live Bidirectional streaming with Continuous Video Frame Capture
+  - `step2_custom_rag` - Zero-index long-context file analyzing agent 
+  - `step3_bidi_demo` - Continuous Live Bidirectional streaming with Continuous Video Frame Capture
 
 ---
 
@@ -33,7 +33,7 @@ source .venv/bin/activate
 Reads directly from a local `.txt` document using normal Python Tooling layers continuous with massive context windows.
 *   **Command**:
     ```bash
-    cd adk-curriculum/custom_rag
+    cd adk-curriculum/step2_custom_rag
     adk web ./agents --port 8084
     ```
 *   **Sample Prompt**: *"What is the grading breakdown structure of the course and when are professor office hours?"*
@@ -42,7 +42,7 @@ Reads directly from a local `.txt` document using normal Python Tooling layers c
 Fully bidirectional multimodal live socket stream.
 *   **Command**:
     ```bash
-    cd adk-curriculum/bidi-demo/app
+    cd adk-curriculum/step3_bidi_demo/app
     uvicorn main:app --reload --port 8086
     ```
 *   **Browser Endpoint**: `http://localhost:8086`
